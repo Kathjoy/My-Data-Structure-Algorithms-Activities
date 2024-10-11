@@ -5,9 +5,9 @@ import java.util.Scanner;
 
 			String [] num = new String[3];
 
-			num[0] = "Kapoy";
-			num[1] = "na kaayu";
-			num[2] = "Sir!!";
+			num[0] = "Siya";
+			num[1] = "raman";
+			num[2] = "unta";
 
 			for (int i = 0; i < num.length; i++) {
 				System.out.println(num[i]);
